@@ -11,7 +11,7 @@ setuptools.setup(
     description="A small example package",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/pypa/sampleproject",
+    url="https://github.com/tsotnesharvadze/btu",
     # project_urls={
     #     "Bug Tracker": "https://github.com/pypa/sampleproject/issues",
     # },
